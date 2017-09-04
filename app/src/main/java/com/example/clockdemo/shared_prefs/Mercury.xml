@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<map>
+
+    <string name="name">wxt</string>
+
+    <int name="ID" value="1234567891" />
+
+</map>
